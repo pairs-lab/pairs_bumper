@@ -1,6 +1,0 @@
-<library path="lib/libPairsBumper_Bumper">
-  <class name="pairs_bumper/Bumper" type="pairs_bumper::Bumper" base_class_type="nodelet::Nodelet">
-    <description>Nodelet for publishing rough object positions for reactive collision avoidance</description>
-  </class>
-</library>
-
